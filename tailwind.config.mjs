@@ -7,9 +7,8 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+      fontFamily: {
+        product: ['"PT Sans"', 'sans-serif']
       },
     },
   },
